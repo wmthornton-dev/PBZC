@@ -1,51 +1,52 @@
-PUBLIC BENEFIT ZERO COPYRIGHT LICENSE v. 1.0
+PUBLIC BENEFIT ZERO COPYRIGHT LICENSE v. 2.0
 SPDX Identifier: <TBD>
 
-Revision Date: October 18th, 2021
+Revision Date: December 17th, 2024
 
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is expressly prohibited.
 
 Definitions:
 
-1) "This License" refers to version 1.0 of the Public Benefit
-   Zero Copyright License.
+1) "This License" refers to version 1.0 or later of the Public Benefit
+Zero Copyright License, whichever is the current release at the time of development.
 
 2) "Copyright" means any laws intended to protect software and associated
-   works, such as written texts and documentation, but this definition is not 
-   limited and shall be construed to include other works as defined by local 
-   or international laws.
+works, such as written texts and documentation, however this definition is 
+not limited to, and shall be construed to include, other related works as 
+defined by local or international laws at the time of development.
 
 3) "This Software" or "this software" refers to any ostensibly
-   copyrightable work to which This License has been assigned.
+copyrightable work to which This License has been assigned, including 
+written texts and documentation, source code, computer binaries, and all 
+other related materials and/or distributions.
 
 4) "Derivative Software" or "derivative software" refers to any
-   ostensibly copyrightable work within which any portion was derived
-   from This Software or any work subject to This License.
+ostensibly copyrightable work within which any portion was derived
+from This Software or any work subject to This License.
 
-5) "General Public Benefit" or "general public benefit" shall mean Free
-   Open Source Software and/or Commercial Open Source Software, including
-   operating systems and applications software which fosters technological 
-   and/or educational advancement. 
+5) "General Public Benefit" or "general public benefit" shall mean any Free
+Open Source Software and/or Commercial Open Source Software, including operating 
+systems and applications software from which the general public, developers, governments, 
+individuals and any other such groups can gain use, knowledge, experience or any other 
+benefit from, the definition of which is at their sole discretion.
 
 6) "Public Domain" or "public domain" shall mean This Software or
-   Derivative Software is entirely free from ownership such as copyright,
-   trademark, or patent.
+Derivative Software is entirely free from ownership such as copyright, trademark, 
+or patent.
 
 7) "Free Open Source Software" shall mean This Software or Derivative
-   Software that licensed to be free to use, modify, and distribute.
+Software that licensed to be free to use, modify, and distribute.
 
 8) "Commercial Open Source Software" shall mean This Software or Derivative
-   Software which is designed to interact with closed, proprietary software
-   in such a way that not all code is publicly available. Software released under 
-   this definition may be sold as part of a larger commercial product
-   but a public repository must be maintained which includes This Software or
-   Derivative Software, in addition to dedicated documentation regarding all API 
-   endpoints and system calls such that a Third-Party developer can understand what 
-   This Software or Derivative Software is doing when interacting with 
-   proprietary source code, binaries, libraries and APIs. Additionally, This
-   Software or Derivative Software must be made free to use, modify or
-   distribute in derivative works by Third-Party developers.
+Software which is designed to interact with closed, proprietary software in such a way 
+that not all code is publicly available. Software released under this definition may be sold 
+as part of a larger commercial product, however a public repository must be maintained which 
+includes This Software or Derivative Software, in addition to dedicated documentation regarding 
+all API endpoints and system calls such that a Third-Party developer can understand what This Software 
+or Derivative Software is doing when interacting with proprietary source code, binaries, libraries 
+and APIs. Additionally, This Software or Derivative Software must be made free to use, modify or
+distribute in derivative works by Third-Party developers.
 
 This is free and unencumbered software released into the public domain,
 and intended to be kept in the public domain in perpetuity.
@@ -66,8 +67,8 @@ means provided:
    superseding revision, whichever is most recent at the time of
    development, and
 
-4) This Software or Derivative Software is publicy released as Free
-   Open Source Software and/or as Commericial Open Source Software, as
+4) This Software or Derivative Software is publicly released as Free
+   Open Source Software and/or as Commercial Open Source Software, as
    appropriate, and
 
 5) A copy of This License is included with all distributions of This
@@ -89,4 +90,5 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <https://github.com/wmthornton/PBZC.git>
+For more information, please refer to <https://github.com/wmthornton-dev/PBZC.git>
+
